@@ -1,3 +1,4 @@
+
 ### AI Text Summarizer 🤖📝
 
 A modern, lightweight web application that uses an open-source Artificial Intelligence model to instantly summarize long articles and text blocks. 
@@ -48,13 +49,11 @@ Open your browser and navigate to: http://123.0.0.1:8000
 
 ### 📸 Application Preview
 
-![Text Summarizer Interface 1](images/image 1.png)
+<img width="845" height="715" alt="image 1" src="https://github.com/user-attachments/assets/c2b0c4ed-5ed5-4fe0-ab0d-53004d4b78e9" />
+<img width="705" height="491" alt="image 2" src="https://github.com/user-attachments/assets/7fa88b05-35b4-492f-9918-333f5e830b80" />
 
-![Text Summarizer Interface 2](images/image 2.png)
-
-![Text Summarizer Interface 3](images/image 3.png)
-
-![Text Summarizer Interface 4](images/image 4.png)
+<img width="1851" height="951" alt="image 3" src="https://github.com/user-attachments/assets/12d04269-fd57-468f-909c-4f684891e53e" />
+<img width="1856" height="735" alt="image 4" src="https://github.com/user-attachments/assets/597ba7c8-bff4-454f-ad1c-350b5b40440c" />
 
 
 ### 💡 How It Works
