@@ -47,8 +47,10 @@ Use code with caution.
 Open your browser and navigate to: http://123.0.0.1:8000
 
 ### 📸 Application Preview
-![Text Summarizer Interface](images/image_qoWw8N.png)
-
+![Text Summarizer Interface](images/image 1.png)
+![Text Summarizer Interface](images/image 2.png)
+![Text Summarizer Interface](images/image 3.png)
+![Text Summarizer Interface](images/image 4.png)
 
 ### 💡 How It Works
 
